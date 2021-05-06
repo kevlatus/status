@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.kevlatus.de",
     "slug": "kevlatus-home",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 348,
-    "timeDay": 332,
-    "timeWeek": 326,
-    "timeMonth": 374,
-    "timeYear": 348,
-    "dailyMinutesDown": {
-      "2021-05-05": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 350,
+    "timeDay": 443,
+    "timeWeek": 366,
+    "timeMonth": 385,
+    "timeYear": 350,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Meeting Tactics",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 278,
-    "timeWeek": 376,
-    "timeMonth": 298,
-    "timeYear": 316,
+    "time": 315,
+    "timeDay": 260,
+    "timeWeek": 368,
+    "timeMonth": 302,
+    "timeYear": 315,
     "dailyMinutesDown": {}
   }
 ]
