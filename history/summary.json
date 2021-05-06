@@ -4,19 +4,19 @@
     "url": "https://www.kevlatus.de",
     "icon": "https://favicons.githubusercontent.com/www.kevlatus.de",
     "slug": "kevlatus-home",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 350,
-    "timeDay": 443,
-    "timeWeek": 366,
-    "timeMonth": 385,
-    "timeYear": 350,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.07%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
+    "time": 349,
+    "timeDay": 366,
+    "timeWeek": 349,
+    "timeMonth": 379,
+    "timeYear": 349,
     "dailyMinutesDown": {
-      "2021-05-06": 0
+      "2021-05-06": 42
     }
   },
   {
