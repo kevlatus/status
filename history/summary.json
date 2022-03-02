@@ -25,19 +25,19 @@
     "url": "https://meet.kevlatus.de",
     "icon": "https://favicons.githubusercontent.com/meet.kevlatus.de",
     "slug": "meeting-tactics",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 351,
-    "timeDay": 421,
-    "timeWeek": 251,
-    "timeMonth": 377,
+    "timeDay": 369,
+    "timeWeek": 259,
+    "timeMonth": 375,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2022-03-02": 0,
+      "2022-03-02": 2,
       "2021-11-16": 28
     }
   }
