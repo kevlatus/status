@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 373,
-    "timeDay": 551,
-    "timeWeek": 289,
-    "timeMonth": 345,
+    "time": 372,
+    "timeDay": 186,
+    "timeWeek": 283,
+    "timeMonth": 336,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2021-06-10": 15,
@@ -27,17 +27,16 @@
     "slug": "meeting-tactics",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 351,
-    "timeDay": 369,
-    "timeWeek": 259,
-    "timeMonth": 375,
+    "timeDay": 292,
+    "timeWeek": 264,
+    "timeMonth": 369,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2022-03-02": 2,
       "2021-11-16": 28
     }
   }
