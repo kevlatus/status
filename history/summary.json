@@ -4,7 +4,7 @@
     "url": "https://www.kevlatus.de",
     "icon": "https://favicons.githubusercontent.com/www.kevlatus.de",
     "slug": "kevlatus-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 340,
     "timeYear": 372,
     "dailyMinutesDown": {
+      "2022-04-14": 0,
       "2021-06-10": 15,
       "2021-05-06": 62
     }
