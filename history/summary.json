@@ -4,9 +4,9 @@
     "url": "https://www.kevlatus.de",
     "icon": "https://favicons.githubusercontent.com/www.kevlatus.de",
     "slug": "kevlatus-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 405,
     "timeYear": 377,
     "dailyMinutesDown": {
+      "2022-05-02": 0,
       "2022-04-19": 16,
       "2021-06-10": 15,
       "2021-05-06": 62
@@ -26,7 +27,7 @@
     "url": "https://meet.kevlatus.de",
     "icon": "https://favicons.githubusercontent.com/meet.kevlatus.de",
     "slug": "meeting-tactics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +39,7 @@
     "timeMonth": 521,
     "timeYear": 373,
     "dailyMinutesDown": {
+      "2022-05-02": 0,
       "2022-04-14": 33,
       "2021-11-16": 28
     }
