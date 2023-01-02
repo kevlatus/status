@@ -28,8 +28,8 @@
     "slug": "meeting-tactics",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 511,
@@ -38,7 +38,6 @@
     "timeMonth": 1148,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2023-01-01": 1,
       "2022-09-14": 48,
       "2022-08-10": 16,
       "2022-05-05": 24,
