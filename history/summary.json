@@ -6,37 +6,35 @@
     "slug": "kevlatus-home",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 465,
     "timeDay": 336,
     "timeWeek": 337,
     "timeMonth": 343,
     "timeYear": 374,
-    "dailyMinutesDown": {
-      "2024-03-16": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Meeting Tactics",
     "url": "https://meet.kevlatus.de",
     "icon": "https://icons.duckduckgo.com/ip3/meet.kevlatus.de.ico",
     "slug": "meeting-tactics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 458,
+    "time": 452,
     "timeDay": 522,
     "timeWeek": 336,
     "timeMonth": 306,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2024-03-16": 8,
+      "2024-03-16": 0,
       "2023-06-06": 17
     }
   }
