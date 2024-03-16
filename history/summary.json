@@ -6,9 +6,9 @@
     "slug": "kevlatus-home",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 465,
     "timeDay": 371,
@@ -16,7 +16,7 @@
     "timeMonth": 347,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2024-03-16": 5
+      "2024-03-16": 0
     }
   },
   {
