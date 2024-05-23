@@ -4,10 +4,10 @@
     "url": "https://www.kevlatus.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.kevlatus.de.ico",
     "slug": "kevlatus-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 376,
@@ -15,16 +15,18 @@
     "timeWeek": 371,
     "timeMonth": 346,
     "timeYear": 362,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-23": 1
+    }
   },
   {
     "name": "Meeting Tactics",
     "url": "https://meet.kevlatus.de",
     "icon": "https://icons.duckduckgo.com/ip3/meet.kevlatus.de.ico",
     "slug": "meeting-tactics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 317,
     "timeYear": 355,
     "dailyMinutesDown": {
+      "2024-05-23": 0,
       "2023-06-06": 17
     }
   },
@@ -43,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wedding.latusbary.de.ico",
     "slug": "latusbary-wedding",
     "status": "up",
-    "uptime": "89.16%",
+    "uptime": "89.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.16%",
+    "uptimeYear": "89.28%",
     "time": 1229,
     "timeDay": 1506,
     "timeWeek": 1249,
