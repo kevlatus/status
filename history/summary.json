@@ -6,18 +6,16 @@
     "slug": "kevlatus-home",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 373,
-    "timeDay": 340,
-    "timeWeek": 467,
-    "timeMonth": 446,
+    "timeDay": 309,
+    "timeWeek": 459,
+    "timeMonth": 450,
     "timeYear": 385,
-    "dailyMinutesDown": {
-      "2025-03-01": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Meeting Tactics",
@@ -26,18 +24,16 @@
     "slug": "meeting-tactics",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 361,
-    "timeDay": 384,
-    "timeWeek": 573,
-    "timeMonth": 449,
+    "timeDay": 232,
+    "timeWeek": 542,
+    "timeMonth": 445,
     "timeYear": 367,
-    "dailyMinutesDown": {
-      "2025-03-01": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Latusbary Wedding",
@@ -51,9 +47,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "98.12%",
     "time": 1410,
-    "timeDay": 1555,
-    "timeWeek": 1694,
-    "timeMonth": 1569,
+    "timeDay": 1367,
+    "timeWeek": 1708,
+    "timeMonth": 1580,
     "timeYear": 1410,
     "dailyMinutesDown": {
       "2025-02-26": 48,
