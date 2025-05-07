@@ -4,19 +4,19 @@
     "url": "https://www.kevlatus.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.kevlatus.de.ico",
     "slug": "kevlatus-home",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 384,
-    "timeDay": 360,
-    "timeWeek": 408,
-    "timeMonth": 474,
+    "timeDay": 356,
+    "timeWeek": 401,
+    "timeMonth": 470,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2025-05-07": 0
+      "2025-05-07": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://meet.kevlatus.de",
     "icon": "https://icons.duckduckgo.com/ip3/meet.kevlatus.de.ico",
     "slug": "meeting-tactics",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 363,
-    "timeDay": 371,
-    "timeWeek": 351,
-    "timeMonth": 402,
+    "timeDay": 326,
+    "timeWeek": 338,
+    "timeMonth": 397,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2025-05-07": 0
+      "2025-05-07": 11
     }
   },
   {
