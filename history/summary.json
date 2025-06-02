@@ -22,19 +22,19 @@
     "url": "https://meet.kevlatus.de",
     "icon": "https://icons.duckduckgo.com/ip3/meet.kevlatus.de.ico",
     "slug": "meeting-tactics",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 377,
-    "timeDay": 238,
-    "timeWeek": 814,
-    "timeMonth": 540,
+    "time": 378,
+    "timeDay": 304,
+    "timeWeek": 759,
+    "timeMonth": 535,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2025-06-02": 0
+      "2025-06-02": 5
     }
   },
   {
