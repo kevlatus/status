@@ -32,7 +32,7 @@
     "timeDay": 371,
     "timeWeek": 390,
     "timeMonth": 411,
-    "timeYear": 421,
+    "timeYear": 420,
     "dailyMinutesDown": {}
   },
   {
@@ -40,9 +40,9 @@
     "url": "https://wedding.latusbary.de",
     "icon": "https://icons.duckduckgo.com/ip3/wedding.latusbary.de.ico",
     "slug": "latusbary-wedding",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
@@ -52,6 +52,7 @@
     "timeMonth": 1568,
     "timeYear": 1535,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-02-26": 48,
       "2024-12-21": 84,
       "2024-12-20": 59,
