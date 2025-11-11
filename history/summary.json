@@ -11,10 +11,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 430,
-    "timeDay": 498,
-    "timeWeek": 418,
-    "timeMonth": 477,
-    "timeYear": 433,
+    "timeDay": 417,
+    "timeWeek": 442,
+    "timeMonth": 475,
+    "timeYear": 432,
     "dailyMinutesDown": {
       "2025-10-20": 28
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 416,
-    "timeDay": 380,
-    "timeWeek": 331,
-    "timeMonth": 464,
-    "timeYear": 426,
+    "timeDay": 376,
+    "timeWeek": 305,
+    "timeMonth": 465,
+    "timeYear": 425,
     "dailyMinutesDown": {
       "2025-10-20": 27
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wedding.latusbary.de.ico",
     "slug": "latusbary-wedding",
     "status": "up",
-    "uptime": "98.92%",
+    "uptime": "98.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1542,
-    "timeDay": 2091,
-    "timeWeek": 1546,
-    "timeMonth": 1491,
-    "timeYear": 1569,
+    "time": 1543,
+    "timeDay": 1486,
+    "timeWeek": 1585,
+    "timeMonth": 1496,
+    "timeYear": 1570,
     "dailyMinutesDown": {
       "2025-02-26": 48,
       "2024-12-21": 84,
