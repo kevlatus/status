@@ -1,7 +1,7 @@
 url: https://www.kevlatus.de
-status: up
-code: 200
-responseTime: 342
-lastUpdated: 2026-01-05T23:06:04.336Z
+status: down
+code: 500
+responseTime: 3319
+lastUpdated: 2026-01-06T20:23:02.838Z
 startTime: 2021-02-10T18:23:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
